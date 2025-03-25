@@ -5,9 +5,7 @@
 This repository provides access to the dataset used in the article:
 
 **Title**: DBS-NET: A Dual-Branch Network Integrating Supervised and Contrastive Self-Supervised Learning for Birdsong Classification  
-**Journal**: Sustainability (under review)  
-**Authors**: [Your Name], [Co-authors if any]  
-**Corresponding Author**: [Your Email]
+
 
 The dataset consists of spectrograms and metadata for 30 bird species, collected and processed as described in the manuscript. It supports supervised and unsupervised birdsong classification tasks.
 
@@ -17,8 +15,7 @@ The dataset consists of spectrograms and metadata for 30 bird species, collected
 
 Due to file size constraints, the full dataset is hosted on Baidu Netdisk. You can download it via the following link:
 
-📎 **Baidu Netdisk Download**: [https://pan.baidu.com/s/XXXXXXXX](https://pan.baidu.com/s/XXXXXXXX)  
-🔑 **Access Code**: `XXXX`
+📎 **Baidu Netdisk Download**: [BirdData30](https://pan.baidu.com/s/1W3oVvP-PtE25uaFHUb2f_A?pwd=mw3c)  
 
 > Please make sure to cite our work when using this dataset.
 
