@@ -28,15 +28,6 @@ The data can be used for:
 - Research in bioacoustics and biodiversity monitoring
 - Experiments with supervised and contrastive learning models
 
----
-
-## Citation
-
-If you use this dataset in your research, please cite the following paper:
-
-> [Your Name], et al. *DBS-NET: A Dual-Branch Network Integrating Supervised and Contrastive Self-Supervised Learning for Birdsong Classification*. Sustainability, 2024 (under review).
-
----
 
 ## License
 
